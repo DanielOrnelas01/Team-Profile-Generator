@@ -10,7 +10,7 @@ The user should clone the repository from GitHub and download Node. This applica
 Read installation section
 
 ## Usage 
-[Walkthrough video here] (https://drive.google.com/file/d/1aiBWZ9IB87mQMRyGFuiZKA8A8ioUgROD/view)
+[Walkthrough Video Here](https://drive.google.com/file/d/1aiBWZ9IB87mQMRyGFuiZKA8A8ioUgROD/view)
 
 ## Test 
 Run npm test to run Jest for tests on constructors.  Also node index.js to run application
